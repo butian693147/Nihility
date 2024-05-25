@@ -1,26 +1,10 @@
 {
-  "mod_elements": [
-    {
-      "name": "WaterBucket",
-      "type": "item",
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "water_bucket",
-      "metadata": {
-        "files": [
-          "src/main/resources/assets/nihility/models/item/water_bucket.json",
-          "src/main/java/net/mcreator/nihility/item/WaterBucketItem.java"
-        ]
-      }
-    }
-  ],
+  "mod_elements": [],
   "variable_elements": [],
   "sound_elements": [],
   "tag_elements": {},
   "language_map": {
-    "en_us": {
-      "item.nihility.water_bucket": "Water Bucket"
-    }
+    "en_us": {}
   },
   "foldersRoot": {
     "name": "~",
