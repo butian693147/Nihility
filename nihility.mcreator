@@ -1,0 +1,45 @@
+{
+  "mod_elements": [
+    {
+      "name": "WaterBucket",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "water_bucket",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/nihility/models/item/water_bucket.json",
+          "src/main/java/net/mcreator/nihility/item/WaterBucketItem.java"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {
+      "item.nihility.water_bucket": "Water Bucket"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nihility",
+    "modName": "Nihility",
+    "version": "1.0.0",
+    "author": "erics, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.nihility"
+  },
+  "mcreatorVersion": 202400118518
+}
